@@ -403,7 +403,7 @@
   {
     "name": "Lancer",
     "core_setting": "Mecha",
-    "largest_subreddit": "r\LancerRPG",
+    "largest_subreddit": "r/LancerRPG",
     "subreddit_size": 32000,
     "known_for": "Tactical combat\nMech customization",
     "core_mechanic": "d20 + modifiers\n≥ target",
@@ -419,23 +419,7 @@
   {
     "name": "Mothership",
     "core_setting": "Sci-fi/Horror",
-    "largest_subreddit": "r\mothershiprpg",
-    "subreddit_size": 8000,
-    "known_for": "Easy-to-learn character creation\nStress and panic mechanics\nHigh lethality\nIntuitive grpahical layout",
-    "core_mechanic": "1d100 ≤ character skill",
-    "price_of_entry": "Free\nMothership: Player's Survival Guide",
-    "purchase_url": "https://tuesdayknightgames.itch.io/mothership-players-survival-guide",
-    "is_open_licensed": "No",
-    "srd_url": "https://www.mothershiprpg.com/resources",
-    "most_famous_property": "Mothership",
-    "crunch": "Low crunch",
-    "owner": "Tuesday Knight Games",
-    "timeline": "2018 (Player's Survival Guide)\n2024(Boxed Set)"
-  },
-  {
-    "name": "Mothership",
-    "core_setting": "Sci-fi/Horror",
-    "largest_subreddit": "r\mothershiprpg",
+    "largest_subreddit": "r/mothershiprpg",
     "subreddit_size": 8000,
     "known_for": "Easy-to-learn character creation\nStress and panic mechanics\nHigh lethality\nIntuitive grpahical layout",
     "core_mechanic": "1d100 ≤ character skill",
