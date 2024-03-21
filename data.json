@@ -382,5 +382,54 @@
     "crunch": "High crunch",
     "owner": "Hero Games\nDOJ, Inc.",
     "timeline": "1990 (Hero System Rulesbook)\n2009 (6th ed)"
+  },
+  {
+    "name": "Mark of the Odd",
+    "core_setting": "Setting-agnostic",
+    "largest_subreddit": null,
+    "subreddit_size": null,
+    "known_for": "Speed\nMinimalism",
+    "core_mechanic": "d20 roll under\nAttacks always hit",
+    "price_of_entry": "$15\nInto the Odd Remastered",
+    "purchase_url": "https://preview.drivethrurpg.com/en/product/399483/Into-the-Odd--Remastered",
+    "is_open_licensed": "Yes",
+    "srd_url": "https://www.bastionland.com/2020/11/mark-of-odd-licence-and-srd.html",
+    "most_famous_property": "Into the Odd\nElectric Bastionland\nMausritter",
+    "crunch": "Low crunch",
+    "owner": "Bastionland Press",
+    "timeline": "2014 (Into the Odd)\n2022(Into the Odd Remastered)"
+  }
+  ,
+  {
+    "name": "Lancer",
+    "core_setting": "Mecha",
+    "largest_subreddit": "r/LancerRPG",
+    "subreddit_size": 32000,
+    "known_for": "Tactical combat\nMech customization",
+    "core_mechanic": "d20 + modifiers\n≥ target",
+    "price_of_entry": "Free\nLancer Core Book",
+    "purchase_url": "https://massif-press.itch.io/corebook-pdf-free",
+    "is_open_licensed": "No",
+    "srd_url": null,
+    "most_famous_property": "Lancer",
+    "crunch": "Medium-High crunch",
+    "owner": "Massif Press",
+    "timeline": "2020 (Lancer Core Book)"
+  }  ,
+  {
+    "name": "Mothership",
+    "core_setting": "Sci-fi/Horror",
+    "largest_subreddit": "r/mothershiprpg",
+    "subreddit_size": 8000,
+    "known_for": "Easy-to-learn character creation\nStress and panic mechanics\nHigh lethality\nIntuitive grpahical layout",
+    "core_mechanic": "1d100 ≤ character skill",
+    "price_of_entry": "Free\nMothership: Player's Survival Guide",
+    "purchase_url": "https://tuesdayknightgames.itch.io/mothership-players-survival-guide",
+    "is_open_licensed": "No",
+    "srd_url": "https://www.mothershiprpg.com/resources",
+    "most_famous_property": "Mothership",
+    "crunch": "Low crunch",
+    "owner": "Tuesday Knight Games",
+    "timeline": "2018 (Player's Survival Guide)\n2024(Boxed Set)"
   }
 ]
